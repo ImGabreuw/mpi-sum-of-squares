@@ -1,0 +1,1 @@
+# mpi-sum-of-squares
